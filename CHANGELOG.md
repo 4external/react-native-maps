@@ -1,4 +1,8 @@
 # Change Log
+## 0.26.2 (Dec 2, 2019)
+
+* Bump for using iOS new features
+
 ## 0.26.1 (October 3, 2019)
 
 * Android: [#3103](https://github.com/react-native-community/react-native-maps/pull/3103) Support for RN 0.60.5
